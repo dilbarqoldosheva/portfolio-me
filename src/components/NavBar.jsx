@@ -10,7 +10,7 @@ const NavBar = () => {
                     <img src="/logo.png" alt="" /> Portfolio
                 </div>
                 <div className="transition-all">
-                    <BtnDownload text='Download Cv' link={'Abdulaziz_Abdusaidov_Frontend_Engineer.pdf'} />
+                    <BtnDownload text='Download Cv' link={"Qo'ldosheva Dilbar resume.pdf"} />
                 </div>
             </header>
         </>
