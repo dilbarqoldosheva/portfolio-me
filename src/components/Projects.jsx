@@ -44,7 +44,7 @@ function Projects() {
       "type": "The main purpose of the Sfera Academy website is to offer users high-quality education in modern IT fields, provide detailed information about courses, enable easy registration, and establish effective communication between students and instructors.",
       "des": "Sfera Academy is a modern educational center that provides training in various IT fields.",
       "mission": "Sfera Academy is a modern educational center that provides training in various IT fields.",
-      "language": "Vite + React.js and TypeScript Material Ui,Tailwind CSS",
+      "language": "Next.js, Tailwind ",
       "images": SferaAcademy,
       "link": "https://www.sferaacademy.uz/",
       "github": "https://github.com/Alisher0903/sfera-education-center"
