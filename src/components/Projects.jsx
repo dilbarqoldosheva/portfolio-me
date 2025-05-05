@@ -57,7 +57,7 @@ function Projects() {
       "language": "React js, Tailwindcss, Firebase, Ant Design",
       "images": bookers,
       "link": "",
-      "github": "https://github.com/abdulazizsaidovcode"
+      "github": ""
     }
   ]);
 
