@@ -8,6 +8,7 @@ import QrHub from "../Assets/projects/QrHub.png"
 import sfera_systems from "../Assets/projects/sfera.png"
 import SferaAcademy from "../Assets/projects/SferaAcademy.png"
 import bookers from "../Assets/projects/bookers.jpg"
+import Tripi from "../Assets/projects/Trioi.png"
 
 function Projects() {
   useEffect(() => {
@@ -27,7 +28,7 @@ function Projects() {
       "language": "React js, Zustand, React query, Typescript, Ant design, Tailwind",
       "images": sfera_systems,
       "link": "http://sferaedu.uz/auth",
-      "github": "https://github.com/Alisher0903/edu-platform"
+      "github": "a"
     },
     {
       "name": "QR - Hub",
@@ -44,10 +45,20 @@ function Projects() {
       "type": "The main purpose of the Sfera Academy website is to offer users high-quality education in modern IT fields, provide detailed information about courses, enable easy registration, and establish effective communication between students and instructors.",
       "des": "Sfera Academy is a modern educational center that provides training in various IT fields.",
       "mission": "Sfera Academy is a modern educational center that provides training in various IT fields.",
-      "language": "Next.js, Tailwind ",
+      "language": "Next.js, Tailwind Travel For You",
       "images": SferaAcademy,
       "link": "https://www.sferaacademy.uz/",
       "github": "https://github.com/Alisher0903/sfera-education-center"
+    },
+    {
+      "name": "Travel For You",
+      "type": "The main purpose of the Sfera Academy website is to offer users high-quality education in modern IT fields, provide detailed information about courses, enable easy registration, and establish effective communication between students and instructors.",
+      "des": "Travel For You is a modern travel platform that makes it easy to search and book hotels around the world.",
+      "mission": "To provide every user with the ability to plan their travels easily, quickly, and reliably.",
+      "language": "Next.js, Tailwind",
+      "images": Tripi,
+      "link": "https://travel-app-lac-one.vercel.app/",
+      "github": "https://github.com/dilbarqoldosheva/Travel-app"
     },
     {
       "name": "Bookers",
@@ -124,7 +135,7 @@ function Projects() {
                   <div className=" mt-10">
 
                     <div className='flex gap-3 flex-wrap md:justify-start justify-center w-full'>
-                      <Btnfirst text='github' link='https://github.com/abdulazizsaidovcode' />
+                      <Btnfirst text='github' link='https://github.com/dilbarqoldosheva' />
                       <Btnfirst text='live' link={value.link} />
                       <Btnfirst text='view more' link={value.github} />
                     </div>
