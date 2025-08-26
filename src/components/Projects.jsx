@@ -28,7 +28,7 @@ function Projects() {
       "language": "React js, Zustand, React query, Typescript, Ant design, Tailwind",
       "images": sfera_systems,
       "link": "http://sferaedu.uz/auth",
-      "github": "a"
+      "github": "https://github.com/dilbarqoldosheva"
     },
     {
       "name": "QR - Hub",
